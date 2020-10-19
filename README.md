@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".web/capa.png" />
+    Happy
 </h1>
 
 
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="web/capa.png" width="700px">
 </p>
 
 ## Tecnologias
