@@ -5,7 +5,6 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fabianorf/happy">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fabianorf/happy">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fabianorf/happy">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fabianorf/happy">
 </p>
